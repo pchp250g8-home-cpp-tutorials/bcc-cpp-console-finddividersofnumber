@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.27 15:47:11.878,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.27 15:47:12.046,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.27 15:48:47.158,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindDividersOfNumber\FindDividersOfNumberPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.27 15:48:47.169,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindDividersOfNumber\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.27 15:48:47.179,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindDividersOfNumber\FindDividersOfNumber.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.27 15:49:02.841,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindDividersOfNumber\FindDividersOfNumber.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindDividersOfNumber\File1.cpp</Transaction>
+    <Transaction>2026.01.27 15:49:08.443,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindDividersOfNumber\FindDividersOfNumber.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindDividersOfNumber\FindDividersOfNumber.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
